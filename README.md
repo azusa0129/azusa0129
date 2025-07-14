@@ -19,7 +19,7 @@
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS-#663399?style=flat-square&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=CSS&logoColor=white"/>
   <br/>
   
   ### Library

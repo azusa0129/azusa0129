@@ -1,10 +1,13 @@
 ## Hi there 👋
-
+<div>
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jdksla0129%20%F0%9F%91%8D)
+</div>
 <!--
 **azusa0129/azusa0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![header](https://capsule-render.vercel.app/api?type=Waving)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
